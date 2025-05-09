@@ -19,7 +19,10 @@ const SkillSwiper = () => {
   return (
     <section className="w-full bg-blue-400 overflow-hidden py-30 px-25 justify-center items-center skill-section">
       <div className="w-full mx-auto flex flex-col items-center gap-20">
-        <h1 className="text-6xl font-bold text-white">SKILLS</h1>
+        <div className="flex flex-col items-center">
+          <h1 className="text-6xl font-bold text-white">SKILLS</h1>
+          <span className="text-gray-500 font-bold">(카드 돌아감)</span>
+        </div>
 
         <div className="w-full grid grid-cols-4 place-items-center">
           <Swiper
