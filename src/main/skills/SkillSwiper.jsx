@@ -21,7 +21,7 @@ const SkillSwiper = () => {
       <div className="w-full mx-auto flex flex-col items-center gap-20">
         <div className="flex flex-col items-center">
           <h1 className="text-6xl font-bold text-white">SKILLS</h1>
-          <span className="text-gray-500 font-bold">(카드 돌아감)</span>
+          <span className="text-gray-500 font-bold">(카드 뒤집기 가능)</span>
         </div>
 
         <div className="w-full grid grid-cols-4 place-items-center">
