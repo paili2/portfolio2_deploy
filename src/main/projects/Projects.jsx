@@ -43,7 +43,7 @@ const Projects = () => {
         >
           <SwiperSlide className="project-slide">
             <ProjectCard
-              image={"/musinsa.png"}
+              image={"/musinsa.PNG"}
               deviceSupport={"Web / MOBILE DEVELOPMENT"}
               projectName={"MUSINSA"}
               codeLink={"https://github.com/paili2/musinsa_next"}
@@ -67,7 +67,7 @@ const Projects = () => {
           </SwiperSlide>
           <SwiperSlide className="project-slide">
             <ProjectCard
-              image={"/socar.png"}
+              image={"/socar.PNG"}
               deviceSupport={"Web / MOBILE DEVELOPMENT"}
               projectName={"SOCAR"}
               codeLink={"https://github.com/paili2/socar-clone"}
@@ -88,7 +88,7 @@ const Projects = () => {
           </SwiperSlide>
           <SwiperSlide className="project-slide">
             <ProjectCard
-              image={"/ticketLink.png"}
+              image={"/ticketLink.PNG"}
               deviceSupport={"Web / MOBILE DEVELOPMENT"}
               projectName={"TicketLink"}
               codeLink={"https://github.com/paili2/ticketlink_react.git"}
